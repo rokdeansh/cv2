@@ -140,3 +140,25 @@ table{
   left: 250px;
   bottom: 300px;
 }
+
+@media (max-width:900px) {
+  .top-cloud{
+position: static;
+    height: 30%;
+    width: 30%;
+margin-right: 10%;
+margin-bottom: -10%
+  }
+
+  .cloud{
+      position: static;
+      height: 25%;
+    width: 25%;
+  margin-right: 40%
+  }
+  .mountain{
+    width: 90%;
+  }
+}
+
+
